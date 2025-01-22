@@ -9,7 +9,13 @@ ul {
 }
 
 li {
+  display: flex;
+  text-align: center;
   margin-bottom: 5px;
-  padding: 8px;
+  padding: 10px;
   border: 1px solid #ccc;
+}
+
+select {
+  margin-left: 20px;
 }
